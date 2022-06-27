@@ -64,4 +64,4 @@ while game:
 			game = True
 			print ("Also lass uns noch eine Runde spielen. Rate die geheimen Farben: ")
    
-   # --- End --- #
+   # --- End Mastermind--- #
